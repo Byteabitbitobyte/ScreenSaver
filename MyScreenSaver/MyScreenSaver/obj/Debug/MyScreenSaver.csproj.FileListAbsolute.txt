@@ -1,0 +1,9 @@
+C:\Users\Julian\source\repos\MyScreenSaver\MyScreenSaver\bin\Debug\MyScreenSaver.exe.config
+C:\Users\Julian\source\repos\MyScreenSaver\MyScreenSaver\bin\Debug\MyScreenSaver.exe
+C:\Users\Julian\source\repos\MyScreenSaver\MyScreenSaver\bin\Debug\MyScreenSaver.pdb
+C:\Users\Julian\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.frmScSaver.resources
+C:\Users\Julian\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.Properties.Resources.resources
+C:\Users\Julian\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.exe
+C:\Users\Julian\source\repos\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.pdb
